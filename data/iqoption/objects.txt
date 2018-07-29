@@ -1,0 +1,2 @@
+data/iqoption/images/objects/button-higher-1.jpg
+data/iqoption/images/objects/button-lower-1.jpg

@@ -1,0 +1,2 @@
+data/iqoption/images//trainobjects/button-higher-1.jpg
+data/iqoption/images/trainobjects/button-lower-1.jpg
