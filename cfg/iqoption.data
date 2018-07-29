@@ -1,0 +1,5 @@
+classes	= 2
+train 	= data/iqoption/trainobjects.txt  
+valid 	= data/iqoption/objects.txt  
+names 	= data/iqoption.names  
+backup 	= backup/
