@@ -1,0 +1,4 @@
+backup/
+models/
+data/coco/
+darknet53.conv.74
